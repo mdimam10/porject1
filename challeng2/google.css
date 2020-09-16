@@ -1,0 +1,68 @@
+.google{
+    height: auto;
+    width: 1000px;
+}
+.hader{
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+   
+}
+h3{
+    font-size: 30px;
+   text-align: center;
+}
+.mil{
+    height: auto;
+    width: 500px;
+    padding: 1px solid red;
+    text-align: center;
+    margin-left: 250px;
+    box-shadow:1px solid red;
+    border: 1px solid wheat;
+    background-color: white;
+
+}
+img{
+    max-width: 100%s;
+    height: 70px;
+    width: auto;
+    text-align: center;
+}
+.h3{
+    text-align: center;
+    font-size: 20px;
+    background-color: blue;
+    color: #fff;
+}
+.h2{
+    text-align: right;
+    color: chartreuse;
+    font-size: 20px;}
+    .cr{
+        text-align: center;
+        font-size: 20px;
+        color: green;
+    }
+.one{
+    text-align: center;
+    font-size: 20px;
+}
+.sl{
+    text-align: center;
+    
+}
+.sl ul{
+    display: inline-block;
+}
+.sl ul li{
+    display: inline-block;
+}
+.sl ul li a{}
+.sl ul li a:hover{}
+.abs{
+    text-align: left;
+    font-size: 20px;
+} 
